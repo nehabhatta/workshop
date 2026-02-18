@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample git demo branch
+=======
+sample git demo2 branch
+>>>>>>> demo2
